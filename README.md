@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# webpack_repo
+webpack complete demo project
+
+Clone and test on browser
+Install Dependencies
+
+npm install
+Run using
+
+npm start
+
+For Webpack Dev
+npm run dev
+
+For Webpack Prod
+npm run prod
+>>>>>>> ca047e0da80db37a6b250f40e7d39f63e9d1e2f1
